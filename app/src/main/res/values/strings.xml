@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WallpaerApplicationDemo</string>
+    <string name="search_any_image_here">Search Any Image Here</string>
+    <string name="photo_by_pexels">Photo By Pexels</string>
+</resources>
